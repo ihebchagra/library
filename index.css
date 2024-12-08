@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'EB Garamond', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+header {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #000000;
+    font-size: 2em;
+}
+
+main {
+    flex: 1;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+#articleContent {
+    margin: 0 auto;
+    text-align: left;
+}
+
+#books {
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-input {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+.book {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    background-color: #ffffff;
+    max-width: 600px;
+    box-sizing: border-box;
+}
+
+
+.book header h3 {
+    margin: 0 0 10px;
+    color: #000000;
+    font-size: 1.5em;
+}
+
+.book section ul {
+    padding-left: 20px;
+}
+
+.book section ul li {
+    list-style-type: disc;
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #000000;
+    color: #000000;
+    position: relative;
+    bottom: 0;
+}
+
+footer p {
+    margin: 5px 0;
+    color: #ffffff;
+
+}
+
+footer a {
+    color: #000000;
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+main a,
+nav a {
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+}
+
+nav a:hover,
+main a:hover {
+    background-color: #f0f0f0;
+}

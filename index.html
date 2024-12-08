@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L'Annexe Ultime en Médecine</title>
+    <meta name="description"
+        content="L'Annexe Ultime en Médecine est un site web qui regroupe les meilleurs livres de médecine en format PDF.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap"
+        rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="index.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <a href="https://iheb.tn">iheb.tn</a>
+        </nav>
+        <h1>L'Annexe Ultime en Médecine</h1>
+        <p>Créé par Hazem Al Abed et Iheb Chagra</p>
+    </header>
+    <main x-data="libraryData()">
+        <section id="books">
+            <input type="text" placeholder="Rechercher..." x-model="searchQuery" class="search-input">
+            <div id="book-list">
+                <template x-for="book in filteredBooks">
+                    <article class="book">
+                        <header>
+                            <h3 x-text="book.title"></h3>
+                        </header>
+                        <section>
+                            <ul>
+                                <template x-for="link in book.links">
+                                    <li><a :href="link.href" x-text="link.name"></a></li>
+                                </template>
+                            </ul>
+                        </section>
+                    </article>
+                </template>
+            </div>
+        </section>
+    </main>
+    <site-footer />
+    <script src="index.js"></script>
+</body>
+
+</html>

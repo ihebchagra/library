@@ -1,0 +1,1007 @@
+[
+    {
+        "title": "SÉMIOLOGIE MÉDICALE",
+        "links": [
+            {
+                "name": "Référentiel FR (1ère édition) (depuis 2023)",
+                "href": "https://drive.google.com/file/d/18-wC-Ex0ZN5SiwofT_yh_DGAVVTHxxiR/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "BIOCHIMIE ET MÉDÉCINE MOLÉCULAIRE",
+        "links": [
+            {
+                "name": "Référentiel FR (2è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1sWacXU5BF013-N9igK0XWtHiAtZwmTZf/view?usp=drive_link"
+            },
+            {
+                "name": "Lab information ressources (eng)",
+                "href": "https://labpedia.net/"
+            }
+        ]
+    },
+    {
+        "title": "GÉNÉTIQUE MÉDICALE",
+        "links": [
+            {
+                "name": "Référentiel FR (1ère édition) (2015)",
+                "href": "https://drive.google.com/file/d/1I8UVrZSmVYLHexHvnEpLG8atiVO6o8GV/view?usp=drive_link"
+            },
+            {
+                "name": "Site du société des internes français",
+                "href": "https://interne-genetique.org/edn/"
+            },
+            {
+                "name": "Site de la fédération française",
+                "href": "https://ffgh.net/index*.*php/reforme-du-2-cycle"
+            },
+            {
+                "name": "Liens utiles",
+                "href": "https://ffgh.net/index*.*php/liens"
+            }
+        ]
+    },
+    {
+        "title": "PARASITOLOGIE & MYCOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (7è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1I8UVrZSmVYLHexHvnEpLG8atiVO6o8GV/view?usp=drive_link"
+            },
+            {
+                "name": "Quiz cliniques site collège français",
+                "href": "https://anofel.net/info/quiz-cliniques/"
+            },
+            {
+                "name": "Site d'iconographies",
+                "href": "https://www.eanofel.fr/4daction/w3_CatVisu/en/Articles.html%3FwCatIDAdmin%3D6%23%26amp%3Bpanel1-8"
+            }
+        ]
+    },
+    {
+        "title": "MICROBIOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR 2015 Tome 1",
+                "href": "https://drive.google.com/file/d/1uWJnITDfM3kbklftf3vcc9CuV2TlVzjZ/view?usp=drive_link"
+            },
+            {
+                "name": "Référentiel FR 2015 Tome 2",
+                "href": "https://drive.google.com/file/d/1zBcu-w0cEHzrkzNSfBCxD-6G5mX1jrAh/view?usp=drive_link"
+            },
+            {
+                "name": "Campus de microbiologie médicale",
+                "href": "https://www.microbes-edu.org/index.html"
+            },
+            {
+                "name": "Microbio ECN (2019) : cours de l'ECN français groupés",
+                "href": "https://drive.google.com/file/d/1T4C5YtPva8UcmOT2snbWTgkghIcUgwbf/view?usp=drive_link"
+            },
+            {
+                "name": "Microbio ECN (2019) : cours de l'ECN français dissociés",
+                "href": "https://drive.google.com/drive/folders/1dZWO_M8LpoJPYaEqLRLfEKZTsUK1sRvZ?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "PHARMACOLOGIE & THÉRAPEUTIQUES MÉDICALES",
+        "links": [
+            {
+                "name": "Référentiel FR du bon usage des médicaments (5è édition) (2021)",
+                "href": "https://drive.google.com/file/d/1y80bSqgP6f70w4g0p0UNKUgn6kXAmDp6/view?usp=drive_link"
+            },
+            {
+                "name": "Algorithmes de traitement de plusieurs affections sur site collège FR de thérapeutique médicale",
+                "href": "https://therap.fr/menu_comment-je-traite/"
+            },
+            {
+                "name": "Référentiel FR L'essentiel Médicaments (2è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1OaIFA-h3tjLwozD-wEE_Ht5DgQ5IIx0G/view?usp=drive_link"
+            },
+            {
+                "name": "Vidéos du site du collège FR de ph",
+                "href": "https://pharmacomedicale.org/videos-pedagogiques"
+            },
+            {
+                "name": "Pharmacologie médicale",
+                "href": "https://pharmacomedicale.org/videos-pedagogiques"
+            },
+            {
+                "name": "Documents de référence de l'Agence nationale de sécurité du médicament et des produits de santé",
+                "href": "https://ansm.sante.fr/documents/reference/"
+            },
+            {
+                "name": "Centre de référence sur les agents tératogènes",
+                "href": "https://www.lecrat.fr/"
+            },
+            {
+                "name": "Centre belge d'information pharmacothérapeutiaque",
+                "href": "https://www.cbip.be/fr/"
+            }
+        ]
+    },
+    {
+        "title": "HISTOLOGIE ET EMBRYOLOGIE MÉDICALES",
+        "links": [
+            {
+                "name": "Référentiel PCEM (depuis 2016)",
+                "href": "https://drive.google.com/file/d/1hHUhuEt9T8FEikWGK5IHlwIrstJGbmIb/view?usp=drive_link"
+            },
+            {
+                "name": "Cours collège (en ligne) FR pour PCEM",
+                "href": "https://sites.google.com/view/las-chec"
+            },
+            {
+                "name": "Référentiel FR pour ECN",
+                "href": "https://www.histologistes.org/CHEC/index*.*php?option=com_content&amp;view=article&amp;id=124"
+            },
+            {
+                "name": "Autres ressources du collège FR",
+                "href": "https://www.histologistes.org/CHEC/index*.*php?option=com_content&amp;view=article&amp;id=117&amp;Itemid=544"
+            },
+            {
+                "name": "autres ressources (extérieures)",
+                "href": "https://www.histologistes.org/CHEC/index*.*php?option=com_content&amp;view=article&amp;id=118&amp;Itemid=545"
+            }
+        ]
+    },
+    {
+        "title": "ANATOMIE ET CYTOLOGIE PATHOLOGIQUES",
+        "links": [
+            {
+                "name": "Fondamentaux de la Pathologie générale (3è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/12CcYDPSMYHTSoQQ0dt4SKkbQg6ThsL2v/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne - site collège FR",
+                "href": "https://www.sfpathol.org/564-manuel-introduction.html"
+            },
+            {
+                "name": "Référentiel FR (3è édition) (2019)",
+                "href": "https://drive.google.com/file/d/1OinxGAmOunX347NAzCIASuM9Yz3LWaJO/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "BIOPHSIQUE ET MÉDECINE NUCLÉAIRE",
+        "links": [
+            {
+                "name": "Fondamentaux de l’imagerie médicale (1ère édition) (2017)",
+                "href": "https://drive.google.com/file/d/1xi5NSGWdkdqBeF_n4gGyMs8vSNFDmldV/view?usp=drive_link"
+            },
+            {
+                "name": "2ème EDITION en ligne - site collège FR",
+                "href": "https://www.cnp-mn.fr/les-fondamentaux-de-limagerie-medicale-acces-public/"
+            },
+            {
+                "name": "Référentiel FR Radio & Méd nucléaire (4è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1g0kSgHQk9cThKfCHjD7ehWoxkPmUTXH7/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "RADIOLOGIE & IMAGERIE MÉDICALE",
+        "links": [
+            {
+                "name": "Référentiel FR Radio (3è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1eZ-dfuCPvfDH5a8BQTYNsyh1RfT3FJ9h/view?usp=drive_link"
+            },
+            {
+                "name": "Ressources site collège français",
+                "href": "https://cerf.radiologie.fr/enseignement/etudiants-medecine-preparation-ecni/r%C3%A9f%C3%A9rentiel-imagerie/ressources"
+            },
+            {
+                "name": "qq livres en PDF gratuits",
+                "href": "https://sims-asso.org/monographies-sauramps*.*php"
+            },
+            {
+                "name": "vidéos d'auto-apprentissage",
+                "href": "https://sims-asso.org/comment-je-fais-videos*.*php"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE PHYSIQUE ET RÉADAPTATION FONCTIONNELLE",
+        "links": [
+            {
+                "name": "Les Fiches ECNi (2020)",
+                "href": "https://drive.google.com/file/d/1TY5KSfCKBK69NBUeNDQ4KXD0QvEWDAo3/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE DE TRAVAIL ET DE L'ENVIRONNEMENT",
+        "links": [
+            {
+                "name": "Application tableaux de maladies professionnelles en tunisie",
+                "href": "https://drx.tn/mptabsapp"
+            }
+        ]
+    },
+    {
+        "title": "ONCOLOGIE MÉDICALE",
+        "links": [
+            {
+                "name": "Collectif de référentiels validés",
+                "href": "https://oncologik.fr/"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE PRÉVENTIVE ET SOCIALE - SANTÉ PUBLIQUE",
+        "links": [
+            {
+                "name": "Référentiel FR Santé publique (5è édition) (2022)",
+                "href": "https://drive.google.com/file/d/1OvvUcnxrSYWy48TDUqn-WadyxeUHJY_0/view?usp=drive_link"
+            },
+            {
+                "name": "Site collège FR (Corrections de cas)",
+                "href": "https://www.cuesp.org/content/p%C3%A9dagogie-et-corrections-ecniedn"
+            },
+            {
+                "name": "Fiches ECNi (depuis 2020)",
+                "href": "https://drive.google.com/file/d/1oHHgenK8ztltOltYNxofGMxlj-pg0xbM/view?usp=drive_link"
+            },
+            {
+                "name": "iKB Santé publique (2017)",
+                "href": "https://drive.google.com/file/d/1kq8px6jE4I_zBYxqnoC0oMG96yWc_rus/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "HUMANITÉS MÉDICALES",
+        "links": [
+            {
+                "name": "Référentiel FR (5è édition) (2022)",
+                "href": "https://drive.google.com/file/d/1OvvUcnxrSYWy48TDUqn-WadyxeUHJY_0/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "GÉRIATRIE",
+        "links": [
+            {
+                "name": "Référentiel FR (5è édition) (2021)",
+                "href": "https://drive.google.com/file/d/1nEnGj7AS-P_4dDbzwJiL5a6Buq0kPYQB/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne",
+                "href": "https://www.seformeralageriatrie.org/livregeriatriecneg"
+            },
+            {
+                "name": "Livre gériatrie pour le praticien",
+                "href": "https://drive.google.com/file/d/1BFFOmi45avsVwk_Y5C9IVTn59JnHZiBr/view?usp=drive_link"
+            },
+            {
+                "name": "Le livre blanc de la gériatrie",
+                "href": "https://www.cnpgeriatrie.fr/wp-content/uploads/2019/04/Livre-blanc-de-la-g%C3%A9riatrie-modifi%C3%A9.pdf"
+            }
+        ]
+    },
+    {
+        "title": "LECTURE ET RÉDACTION MÉDICALE",
+        "links": [
+            {
+                "name": "Référentiel FR de LCA en anglais (5è édition) (2021)",
+                "href": "https://drive.google.com/file/d/1f8f1a8zzXyhdpnks0KU1ZRQ38bHfTQRL/view?usp=drive_link"
+            },
+            {
+                "name": "Site collège FR",
+                "href": "https://www.cuesp.org/content/p%C3%A9dagogie-et-corrections-ecniedn"
+            },
+            {
+                "name": "iKB LCA (depuis 2018)",
+                "href": "https://drive.google.com/file/d/1JkldYWWhujqWhtA_9NH8hZ9oba7AK4EF/view?usp=drive_link"
+            },
+            {
+                "name": "Réussite à la LCA - Pezel (5è édition) (2020)",
+                "href": "https://drive.google.com/file/d/1f8f1a8zzXyhdpnks0KU1ZRQ38bHfTQRL/view?usp=drive_link"
+            },
+            {
+                "name": "Guide de découverte de la LCA - Pezel (2022)",
+                "href": "https://drive.google.com/file/d/1IaGMMSXww-Hd6rUVeDdfcuRBDjrBCjuz/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "HÉMATOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (4è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1qPqnaqEFTqONzpNeFewrsY0bogeohimG/view?usp=drive_link"
+            },
+            {
+                "name": "Référentiel ECNi : plus abrégé (9è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1PCwJWRI-katQHeVxrEbfMkOF8zWVoTHx/view?usp=drive_link"
+            },
+            {
+                "name": "iKB d'Hématologie (4è édition) (depuis 2018)",
+                "href": "https://drive.google.com/file/d/1E_GVAkhb5uPz3erzo2f7pm13lkt8FuFK/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "ENDOCRINOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (5è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1s0OFu06TQ2dgyT6q3KU_HRFBj-0loGZ_/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne - site collège FR",
+                "href": "https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/"
+            },
+            {
+                "name": "iKB endocrinologie (10è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1oCc4SpSaq71fNhhhWdd7gPyUi40IKBSK/view?usp=drive_link"
+            },
+            {
+                "name": "Site complément du KB",
+                "href": "https://endocrinologie.i-kb.fr/"
+            },
+            {
+                "name": "Polycopié sémoiologie collège FR",
+                "href": "https://drive.google.com/file/d/1hKbjwTMw6Eal4hZ73FeBB9gwFr1A7iJG/view?usp=drive_link"
+            },
+            {
+                "name": "Même poly divisé en 2 parties PDF - site collège FR",
+                "href": "https://www.sfendocrino.org/polycopie-de-semiologie/"
+            }
+        ]
+    },
+    {
+        "title": "DIABÉTOLOGIE – NUTRITION",
+        "links": [
+            {
+                "name": "Les fondamentaux de la nutrition humaine (1ère édition) (2014)",
+                "href": "https://drive.google.com/file/d/1NREbGaJ2r3VYFQnzrnvB5jnOd0847Pdb/view?usp=drive_link"
+            },
+            {
+                "name": "Référentiel FR (3è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1vrwVR9bu5d-Pj4U-CsBXDmmVLhrQCB83/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "INFECTIOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR Pilly Etudiant (2è édition) (depuis 2023)",
+                "href": "https://drive.google.com/file/d/10v-SI30PjJcEy_E0N0SHZuAcmc7zo-Fi/view?usp=drive_link"
+            },
+            {
+                "name": "Chapitres en PDF - site collège FR",
+                "href": "https://www.infectiologie.com/fr/pilly-etudiant-2023-disponible-a-la-vente-et-en-ligne.html"
+            },
+            {
+                "name": "Epilli Trop : référentiel infections tropicales (3è édition) (depuis 2022)",
+                "href": "https://www.infectiologie.com/UserFiles/File/formation/epilly-trop/livre-epillytrop2022.pdf"
+            },
+            {
+                "name": "Outils professionnels du site collège français",
+                "href": "https://www.infectiologie.com/fr/outils-de-bua.html"
+            }
+        ]
+    },
+    {
+        "title": "NEUROLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (6è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1F2bZEtCy093mktshS4VB18HUn91vBOT6/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne sur le site collège FR",
+                "href": "https://www.cen-neurologie.fr/second-cycle"
+            },
+            {
+                "name": "Référentiel de sémiologie en ligne",
+                "href": "https://www.cen-neurologie.fr/premier-cycle/examen-neurologique"
+            },
+            {
+                "name": "Les fondamentaux de la pathologie neurologique (depuis 2023)",
+                "href": "https://drive.google.com/file/d/1d552_hA5TXmVvXd-ZhJ5wBLArdlB_N7B/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "RHUMATOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (7è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1kZLfxiTNt4P8XsRW1s3f8OWt4AI33nsV/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne - site collège FR",
+                "href": "https://www.lecofer.org/liste-des-items-ecn%2A.%2Aphp"
+            },
+            {
+                "name": "Cas cliniques",
+                "href": "https://www.lecofer.org/cas-cliniques-numero-0%2A.%2Aphp"
+            },
+            {
+                "name": "Jeux sérieux",
+                "href": "https://www.lecofer.org/jeux-serieux%2A.%2Aphp"
+            },
+            {
+                "name": "chapitres en PDF sur site collège FR",
+                "href": "https://www.lecofer.org/semiologie-en-rhumatologie%2A.%2Aphp"
+            },
+            {
+                "name": "vidéos collège FR",
+                "href": "https://www.lecofer.org/semiologie%2A.%2Aphp"
+            },
+            {
+                "name": "Site info public",
+                "href": "https://public.larhumatologie.fr/"
+            },
+            {
+                "name": "Fiches critères diagnostique et d'activité des rhumatismes inflammatoires",
+                "href": "https://sfr.larhumatologie.fr/formations-ressources/boite-outils"
+            }
+        ]
+    },
+    {
+        "title": "PNEUMOLOGIE",
+        "links": [
+            {
+                "name": "Chapitres en PDF - site collège FR (depuis 2023)",
+                "href": "https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/"
+            },
+            {
+                "name": "Référentiel FR groupé en UN PDF",
+                "href": "https://drive.google.com/file/d/1aEWHPxGk1MgW4pkulTDJkXCBEIM4a5zh/view?usp=drive_link"
+            },
+            {
+                "name": "Site de sémiologie par le collège FR (inscription gratuite)",
+                "href": "https://semiologiepneumologique.com/"
+            },
+            {
+                "name": "Document de référence d'EFR par le collège FR (depuis 2023)",
+                "href": "https://cep.splf.fr/wp-content/uploads/2023/07/lEFR-pour-EDN-2023.pdf"
+            }
+        ]
+    },
+    {
+        "title": "CARDIOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (2è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/17K36jiaZhoKwiM-CQJsdW19Ltrlmk1e-/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne - site collège FR",
+                "href": "https://www.sfcardio.fr/page/medecine-cardiovasculaire-reussir-son-dfasm"
+            },
+            {
+                "name": "iKB cardiologie (10è édition) (depuis 2024)",
+                "href": "https://drive.google.com/file/d/1RgmBbveFULrSFJhIAMhqrknPTu242taH/view?usp=drive_link"
+            },
+            {
+                "name": "site complément du livre",
+                "href": "https://cardiologie.i-kb.fr/"
+            },
+            {
+                "name": "Fiches KB cardiologie vasculaire (2022)",
+                "href": "https://drive.google.com/file/d/1klBZ8ejn3t2ecJkINcfTlDV0rY7LOymE/view?usp=drive_link"
+            },
+            {
+                "name": "Les fondamentaux de la pathologie cardiovasculaire (2è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1NixakxSq77EGGF2bOiKMZvNc2yDQzlj9/view?usp=drive_link"
+            },
+            {
+                "name": "Polycopié de sémiologie sur le site collège français (depuis 2009)",
+                "href": "https://www.sfcardio.fr/page/referentiel-semiologie-cardiologique"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE & CHIRURGIE VASCULAIRE",
+        "links": [
+            {
+                "name": "Référentiel FR (3è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1LxGaRLKyrhTcm5A3mI59YI9VtuVgZgWE/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "HÉPATO-GASTRO-ENTÉROLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (4è édition) (depuis 2018)",
+                "href": "https://drive.google.com/file/d/16MBAMN9LryGCaInOu-o8cdGvXH7qzS2s/view?usp=drive_link"
+            },
+            {
+                "name": "iKB Hépato-gastro-entérologie (9è édition) (depuis 2023)",
+                "href": "https://drive.google.com/file/d/1BED1nFNlOKBvTSpBt2kLNe2AuPCtQvvY/view?usp=drive_link"
+            },
+            {
+                "name": "Les fiches ECNi (depuis 2019)",
+                "href": "https://drive.google.com/file/d/1_mGQk61ek-6X5atfhH6mCyTeqX9V_Y0i/view?usp=drive_link"
+            },
+            {
+                "name": "Les fondamentaux de la pathologie digestive (depuis 2014)",
+                "href": "https://drive.google.com/file/d/16QGkjjP3LqNBMjjTGZzPKkBs_50dnh8t/view?usp=drive_link"
+            },
+            {
+                "name": "Chapitres en PDF sur site collège FR",
+                "href": "https://www.snfge.org/professionnels/formation/fondamentaux-pathologie-digestive"
+            },
+            {
+                "name": "Info-patient site Collège FR",
+                "href": "https://www.snfge.org/grand-public"
+            }
+        ]
+    },
+    {
+        "title": "OPHTALMOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (5è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/17jxWuL-PDMjl4UV1q-bTOhyr2g68XMtH/view?usp=drive_link"
+            },
+            {
+                "name": "Chapitres en PDF + ressources collège FR",
+                "href": "https://couf.fr/espace-etudiants/2eme-cycle-dcem/"
+            },
+            {
+                "name": "iKB ophtalmologie (depuis 2018)",
+                "href": "https://drive.google.com/file/d/1o1mzIGjYx_XoNuLOIg1OxDxOiT_DACU5/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "DERMATOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (8è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1_pkuOggA__PI6cUxbaJMn8j-bJafRYa0/view?usp=drive_link"
+            },
+            {
+                "name": "iconographies d'affections dermatologiques",
+                "href": "https://www.dermis.net/dermisroot/fr/home/index.htm"
+            },
+            {
+                "name": "Atlas + cours de dermatologie - Tunisie",
+                "href": "https://www.uvt.rnu.tn/resources-uvt/cours/atlas_dermato/atlas/abc/abc.html"
+            },
+            {
+                "name": "Fondamentaux revêtement cutané (2è édition) (2020)",
+                "href": "https://drive.google.com/file/d/15E81f6ZnqGb4JRlQOpCYwyuPuhoS1zww/view?usp=drive_link"
+            },
+            {
+                "name": "Chapitres en PDF (moins illustrés) sur site collège FR",
+                "href": "https://cedef.org/enseignement-2eme-cycle-dermatologie/"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE INTERNE",
+        "links": [
+            {
+                "name": "Référentiel FR (4è édition) (2021)",
+                "href": "https://drive.google.com/file/d/1MQ55SxQIAZhBHxB7xSHMtbdqU9_XLftf/view?usp=drive_link"
+            },
+            {
+                "name": "info public",
+                "href": "https://public.larhumatologie.fr/"
+            }
+        ]
+    },
+    {
+        "title": "IMMUNOLOGIE CLINIQUE & Immunopathologie",
+        "links": [
+            {
+                "name": "Immunologie fondamentale et immunopathologie (2è édition) (2018)",
+                "href": "https://drive.google.com/file/d/1gCryh6FS2YuX87bfvKYuSvzpAPyg8KGN/view?usp=drive_link"
+            },
+            {
+                "name": "Référentiel FR (3è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1cbKdjsVvIid10r7qfRYILPHNhKOE2AIk/view?usp=drive_link"
+            },
+            {
+                "name": "Guide des analyses en immunologie (1ère édition) (2014)",
+                "href": "https://drive.google.com/file/d/1fuj05AW_Tdp2GLbohDS6R-LmefegxNtr/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "PÉDIATRIE",
+        "links": [
+            {
+                "name": "Référentiel FR (9è édition) (depuis 2023)",
+                "href": "https://drive.google.com/file/d/1BhtHsNxNPq8jDxATtj6W-ervDIcSFPdj/view?usp=drive_link"
+            },
+            {
+                "name": "Préface Référentiel FR (9è édition) (depuis 2023)",
+                "href": "https://www.pedia-univ.fr/deuxieme-cycle/referentiel/prefaces"
+            },
+            {
+                "name": "Préface en consultation en ligne",
+                "href": "https://www.pedia-univ.fr/deuxieme-cycle/referentiel/prefaces"
+            },
+            {
+                "name": "iKB pédiatrie (10è édition) (depuis 2016)",
+                "href": "https://drive.google.com/file/d/1f74KztvXKiDnd_J2LHp4QUN8L3CRmm6z/view?usp=drive_link"
+            },
+            {
+                "name": "Ressources utiles sur site collège FR",
+                "href": "https://www.pedia-univ.fr/deuxieme-cycle/ressources-documentaires"
+            },
+            {
+                "name": "vidéothèque du collège FR",
+                "href": "https://www.pedia-univ.fr/videotheque"
+            },
+            {
+                "name": "Fiches info-patient sur site société FR",
+                "href": "https://www.sfpediatrie.com/grand-public/fiches-patients-focus"
+            }
+        ]
+    },
+    {
+        "title": "O.R.L [OTO-RHINO-LARYNGOLOGIE]",
+        "links": [
+            {
+                "name": "Référentiel FR (5è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1SLurdg64m-nhCZETeUIDFt3qIdLdz3Vh/view?usp=drive_link"
+            },
+            {
+                "name": "Plateforme vidéos - collège français ORL-CCF",
+                "href": "https://campusorl.fr/espace-etudiants/plateformes-videos/"
+            },
+            {
+                "name": "Fiches ECNi (depuis 2018)",
+                "href": "https://drive.google.com/file/d/1GTJsFma-qWFO_YJtMe7LyyQ9xh-h4tgq/view?usp=drive_link"
+            },
+            {
+                "name": "iKB ORL (depuis 2017)",
+                "href": "https://drive.google.com/file/d/1o1mzIGjYx_XoNuLOIg1OxDxOiT_DACU5/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "CHIRURIGE MAXILLO-FACIALE",
+        "links": [
+            {
+                "name": "Référentiel FR (5è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1tVMlMF4ypspA_bmk2gIyDq9NjSvnABWi/view?usp=drive_link"
+            },
+            {
+                "name": "Site collège français CMF",
+                "href": "https://www.cnecmf.fr/le-college/les-activites-du-college/"
+            }
+        ]
+    },
+    {
+        "title": "CHIRURGIE VISCERALE",
+        "links": [
+            {
+                "name": "Référentiel FR dédié (Med-Line) (3è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1NnCS16IWuSkhaW-CE3bqQn-aZdYXatgt/view?usp=drive_link"
+            },
+            {
+                "name": "Référentiel FR avec HGE (Elsevier) (4è édition) (depuis 2018)",
+                "href": "https://drive.google.com/file/d/16MBAMN9LryGCaInOu-o8cdGvXH7qzS2s/view?usp=drive_link"
+            },
+            {
+                "name": "iKB Chirurgie générale (9è édition) (depuis 2023)",
+                "href": "https://drive.google.com/file/d/1BED1nFNlOKBvTSpBt2kLNe2AuPCtQvvY/view?usp=drive_link"
+            },
+            {
+                "name": "Les fiches ECNi (2019)",
+                "href": "https://drive.google.com/file/d/1_mGQk61ek-6X5atfhH6mCyTeqX9V_Y0i/view?usp=drive_link"
+            },
+            {
+                "name": "Fiches info-patient pré-opératoires sur site société FR",
+                "href": "https://www.sfchirurgiedigestive.fr/fiche-information/"
+            }
+        ]
+    },
+    {
+        "title": "NÉPHROLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (10è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1rE-4c4fBrmeIqWaSD-MX2Zglq07S7qK1/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne - site collège FR",
+                "href": "https://cuen.fr/manuel3/"
+            },
+            {
+                "name": "Fiches EDN (depuis 2023)",
+                "href": "https://drive.google.com/file/d/1fLh9VT-mLXQ5UhfMeHUbmaIpIxqOvIFz/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "UROLOGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (5è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1UOzObSKKuo2HJhvJ_FmN8OF2UnQskrHd/view?usp=drive_link"
+            },
+            {
+                "name": "PDFs par chapitre du site collège FR",
+                "href": "https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/"
+            },
+            {
+                "name": "Les fondamentaux de la pathologie de l'appareil uro-génital",
+                "href": "https://drive.google.com/file/d/1BAcLb9JdNclc1ALWOBsQgUiRG4t7rKMj/view?usp=drive_link"
+            },
+            {
+                "name": "Cours vidéo du collège FR",
+                "href": "https://www.urofrance.org/lafu-academie/formation-du-college/enseignement-college-urologie-2021/"
+            }
+        ]
+    },
+    {
+        "title": "ORTHOPÉDIE-TRAUMATOLOGIE",
+        "links": [
+            {
+                "name": "version téléchargeable depuis site Société FR (3è éd) (2022)",
+                "href": "https://www.sofcot.fr/cnp-cot/college-cfcot-vous-etes-etudiant/livre-du-college-en-telechargement"
+            },
+            {
+                "name": "Fameux Cours d'orthopédie de Pr LERAT",
+                "href": "https://anciensinterneslyon.fr/bibliotheque-scientifique/725-lerat-enseignement-orthopedie-traumatologie.html"
+            },
+            {
+                "name": "http://www.lerat-orthopedie.com/FR/",
+                "href": "https://www.lerat-orthopedie.com/FR/"
+            },
+            {
+                "name": "Section info patients du site société FR",
+                "href": "https://www.sofcot.fr/sofcot/patients"
+            },
+            {
+                "name": "patho chirurgicale du pied",
+                "href": "https://afcp.com.fr/infos-patients/fiches-patients/"
+            }
+        ]
+    },
+    {
+        "title": "GYNÉCOLOGIE",
+        "links": [
+            {
+                "name": "Référentiel Gynécologie médicale FR (1ère édition) (2020)",
+                "href": "https://drive.google.com/file/d/1iKg9dsAUTec6sWX6Nsk9bSCTeFQb23tt/view?usp=drive_link"
+            },
+            {
+                "name": "Référentiel Gynécologie-Obstétrique FR (5è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1Ulp7TEd3J-KEKvHcFEiuy97Gx4y8Ph_n/view?usp=drive_link"
+            },
+            {
+                "name": "iKB gynécologie-obstétrique (depuis 2024)",
+                "href": "https://drive.google.com/file/d/127mLPeGIgwmwPD8ldDH9kSF7oBjRqu2q/view?usp=drive_link"
+            },
+            {
+                "name": "Les fiches ECNi (2019)",
+                "href": "https://drive.google.com/file/d/1s4jKlglUgq71lhbss2bKhIKHVlcrmTFY/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "title": "NEURO-CHIRURGIE",
+        "links": [
+            {
+                "name": "Référentiel FR (3è édition) (depuis 2022)",
+                "href": "https://drive.google.com/file/d/1KUs9hY-_m95-KasqUU4vo_j44S4g3wp-/view?usp=drive_link"
+            },
+            {
+                "name": "Consultation en ligne - site collège FR",
+                "href": "https://campus.neurochirurgie.fr/rubrique197.html"
+            },
+            {
+                "name": "Guide des Urgences pour les Internes de NEurochirurgie de phaSe Socle",
+                "href": "https://campus.neurochirurgie.fr/IMG/pdf/guiness.pdf"
+            },
+            {
+                "name": "Référentiel FR 3è cycle collège",
+                "href": "https://campus.neurochirurgie.fr/rubrique3.html"
+            }
+        ]
+    },
+    {
+        "title": "PSYCHIATRIE-ADDICTOLOGIE / PÉDOPSYCHIATRIE",
+        "links": [
+            {
+                "name": "Référentiel FR (4è édition) (depuis 2024)",
+                "href": "https://drive.google.com/file/d/1CwexSmWJ39whMx0_mYYee8qet-_RK4bV/view?usp=drive_link"
+            },
+            {
+                "name": "Contenu associé du site de l'association FR de sémio psy",
+                "href": "https://www.asso-aesp.fr/utiliser-le-referentiel-ecn-en-psychiatrie/"
+            },
+            {
+                "name": "Cas clinuque pour l'ECN du site collège FR d'addictologie",
+                "href": "https://www.cunea.fr/cas-clinique"
+            },
+            {
+                "name": "Notions fondamentale au premier contact",
+                "href": "https://www.asso-aesp.fr/comprendre-les-fondamentaux/notions-fondamentales-etudiant/"
+            },
+            {
+                "name": "Fiches de base de sémiologie psychiatrique",
+                "href": "https://www.asso-aesp.fr/comprendre-les-fondamentaux/bases-semiologiques-tryptique-aesp/"
+            },
+            {
+                "name": "Examen physique et psychiatrique en détail",
+                "href": "https://www.asso-aesp.fr/examiner-en-psychiatrie/"
+            },
+            {
+                "name": "Sémiologie des grands syndromes",
+                "href": "https://www.asso-aesp.fr/observer-la-clinique/"
+            },
+            {
+                "name": "DICOSEMIOPSY : appli glossaire illustré de la sémio psy",
+                "href": "https://www.asso-aesp.fr/semiologie/outils-pratiques/dicosemiopsy/"
+            },
+            {
+                "name": "guide de l'entretien psychiatrique",
+                "href": "https://semio8g.grieps.fr/"
+            },
+            {
+                "name": "Introduction à la sémiologie pédopsyciatrique",
+                "href": "https://www.asso-aesp.fr/comprendre-les-fondamentaux/semiologie-pedopsychiatrie/"
+            },
+            {
+                "name": "Site du service de psychiatrie du CHU Angers",
+                "href": "https://psyfontevraud.free.fr/"
+            },
+            {
+                "name": "Guides de stages de l'externe, du résident ...",
+                "href": "https://www.asso-aesp.fr/organiser-son-stage/"
+            },
+            {
+                "name": "Ressources utiles du collège national FR",
+                "href": "https://cnup.fr/page/supports-et-recommandations"
+            },
+            {
+                "name": "Techniques psychothérapeutiques",
+                "href": "https://www.techniques-psychotherapiques.org/index%2A.%2Aphp"
+            },
+            {
+                "name": "Plate-formes d'information scientifique",
+                "href": "https://psydoc-fr.broca.inserm.fr/biblo_bd/pfis.html"
+            },
+            {
+                "name": "sélection Vidéos de la fédération FR",
+                "href": "https://www.psydoc-france.fr/fmi/xsl/psydocindex/recordlist.xsl%3F-lay%3Dsaisie%26amp%3Bcategorie%3Dvideos%26amp%3B-sortfield.1%3DTitre%26amp%3B-find%3D-find"
+            },
+            {
+                "name": "Le monde du schizophrène",
+                "href": "https://www.youtube.com/watch?v=x4hfqEl-rm8"
+            },
+            {
+                "name": "images de la folie",
+                "href": "https://www.youtube.com/watch?v=9tBMRVokZmw"
+            },
+            {
+                "name": "\"La prévention du Suicide: Mythe et Réalité\"",
+                "href": "https://www.youtube.com/watch?v=u32Obk73XOI"
+            },
+            {
+                "name": "Le médecin face au toxicomane",
+                "href": "https://www.youtube.com/watch?v=YN3P9M6Bwf0"
+            },
+            {
+                "name": "Fiche présentation",
+                "href": "https://medfilm.unistra.fr/wiki/S%C3%A9m%C3%A9iologie_psychiatrique,_pr%C3%A9sentations_de_malades"
+            },
+            {
+                "name": "Symptomatologie hystérique",
+                "href": "https://www.youtube.com/watch?v=XejqcvtqgUQ"
+            },
+            {
+                "name": "Symptomatologie mélancolique",
+                "href": "https://www.youtube.com/watch?v=8gDkFX4wprI"
+            },
+            {
+                "name": "Angoisse psychotique",
+                "href": "https://www.youtube.com/watch?v=Q70aG7BwObc"
+            },
+            {
+                "name": "Expérience délirante primaire chez un adolescent",
+                "href": "https://www.youtube.com/watch?v=JEUFH2aaNIY"
+            },
+            {
+                "name": "Délire chronique persécutif et mégalomaniaque",
+                "href": "https://www.youtube.com/watch?v=tXsN73eEzHA"
+            },
+            {
+                "name": "Forme de début de la schizophrénie",
+                "href": "https://www.youtube.com/watch?v=8xrQFvcNdR0"
+            },
+            {
+                "name": "Syndrome hébéphréno-catatonique",
+                "href": "https://www.youtube.com/watch?v=LWDAkJDUlXM"
+            },
+            {
+                "name": "Psychose alcoolique",
+                "href": "https://www.youtube.com/watch?v=1p2jT4GiIdc"
+            },
+            {
+                "name": "Psychose hallucinatoire chronique",
+                "href": "https://www.youtube.com/watch?v=Wy63WuuhWyY"
+            },
+            {
+                "name": "Jalousie pathologique avec décompensation dépressive",
+                "href": "https://www.youtube.com/watch?v=yYTJXHuZQn4"
+            },
+            {
+                "name": "Psychose maniaco-dépressive : accès maniaque",
+                "href": "https://www.youtube.com/watch?v=GGVYRxxsvEU"
+            },
+            {
+                "name": "Psychose maniaco-dépressive : accès mélancolique",
+                "href": "https://www.youtube.com/watch?v=18XMUMvx9KU"
+            },
+            {
+                "name": "Guide d’intervention mhGAP (OMS)",
+                "href": "https://www.who.int/publications/i/item/9789241549790"
+            },
+            {
+                "name": "Vidéos d'entraînement mhGAP (en arabe)",
+                "href": "https://www.youtube.com/playlist?list=PLU4ieskOli8GicaEnDweSQ6-yaGxhes5v"
+            },
+            {
+                "name": "Site d'aide à la prescription pharmacologique en pédopsychiatrie (société FR)",
+                "href": "https://pharmacologie.sfpeada.fr/"
+            }
+        ]
+    },
+    {
+        "title": "ANESTHÉSIE-RÉANIMATION & MÉDECINE PÉRIOPÉRATOIRE",
+        "links": [
+            {
+                "name": "Référentiel FR (2è édition) (depuis 2020)",
+                "href": "https://drive.google.com/file/d/1H-BmziUxqIcQ5cJyYamqt6i8PI_Eidl7/view?usp=drive_link"
+            },
+            {
+                "name": "Chapitres en PDF du site collège FR",
+                "href": "https://www.cnear.fr/dfasm"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE D’URGENCE",
+        "links": [
+            {
+                "name": "Référentiel FR (4è édition) (2022)",
+                "href": "https://drive.google.com/file/d/1HbwGWpBaiT7H434ead-tz4y_KvKPtGYQ/view?usp=drive_link"
+            },
+            {
+                "name": "Outils professionnels du site collège FR",
+                "href": "https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE INTENSIVE - RÉANIMATION MÉDICALE",
+        "links": [
+            {
+                "name": "Référentiel FR (7è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1BBwZYq0qbh4sLUkj_paCqno2LdDMbrEz/view?usp=drive_link"
+            },
+            {
+                "name": "Chapitres en PDF + vidéos - site collège FR",
+                "href": "https://www.ce-mir.fr/enseignements/dfasm-edn/livre-referenciel-deuxieme-cycle-r2c"
+            }
+        ]
+    },
+    {
+        "title": "MÉDECINE D'ACTIVITÉ PHYSIQUE ET SPORTIVE",
+        "links": [
+            {
+                "name": "Référentiel FR (7è édition) (depuis 2021)",
+                "href": "https://drive.google.com/file/d/1BBwZYq0qbh4sLUkj_paCqno2LdDMbrEz/view?usp=drive_link"
+            },
+            {
+                "name": "Chapitres en PDF + vidéos - site collège FR",
+                "href": "https://www.ce-mir.fr/enseignements/dfasm-edn/livre-referenciel-deuxieme-cycle-r2c"
+            }
+        ]
+    }
+]
