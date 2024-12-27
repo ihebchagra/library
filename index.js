@@ -33,7 +33,7 @@ function libraryData() {
             return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
         },
         init() {
-            fetch('library.json')
+            fetch('library.json?v=1')
                 .then(response => response.json())
                 .then(data => {
                     this.books = data.map(book => ({
